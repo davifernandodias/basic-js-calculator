@@ -1,23 +1,23 @@
-🚀 Desenvolvimento de Calculadora em JavaScript 🚀
+🚀 Calculator Development in JavaScript 🚀
 
-Estou empolgado em compartilhar meu mais recente projeto, no qual fui responsável pelo desenvolvimento de uma calculadora totalmente funcional utilizando JavaScript. Esta iniciativa teve como objetivo criar uma ferramenta prática e intuitiva para realização de cálculos de maneira eficiente e acessível.
+I'm excited to share my latest project where I was responsible for developing a fully functional calculator using JavaScript. This initiative aimed to create a practical and intuitive tool for carrying out calculations in an efficient and accessible way.
 
-🧮 Funcionalidades Destacadas:
-Implementamos uma interface amigável que permite aos usuários realizar operações matemáticas básicas e avançadas de forma simples. A calculadora suporta adição, subtração, multiplicação, divisão, além de funções trigonométricas e outras operações mais complexas.
+🧮 Highlighted Features:
+We have implemented a user-friendly interface that allows users to perform basic mathematical operations and details in a simple way. The calculator supports addition, subtraction, multiplication, division, as well as trigonometric functions and other more complex operations.
 
-💻 Tecnologias Utilizadas:
-O projeto foi desenvolvido utilizando JavaScript para a lógica de programação e interatividade, HTML para a estrutura da página e CSS para o design responsivo. A aplicação é acessível em diferentes dispositivos, proporcionando uma experiência consistente.
+💻 Technologies Used:
+The project was developed using JavaScript for programming logic and interactivity, HTML for page structure and CSS for responsive design. The application is accessible on different devices, providing a consistent experience.
 
-🌐 Acessibilidade e Usabilidade:
-Dedicamos especial atenção à acessibilidade e usabilidade, garantindo que a calculadora seja intuitiva para usuários de todas as habilidades. Adotamos práticas de design responsivo para garantir uma experiência fluida em dispositivos móveis, tablets e desktops.
+🌐 Accessibility and Usability:
+We pay special attention to accessibility and usability, ensuring the calculator is intuitive for users of all abilities. We adopt responsive design practices to ensure a fluid experience on mobile devices, tablets and desktops.
 
-🚀 Resultados Alcançados:
-A calculadora JavaScript foi um sucesso, proporcionando uma solução prática para usuários que precisam realizar cálculos de maneira rápida e confiável. O projeto reforçou a importância da eficiência na entrega de soluções simples e funcionais.
+🚀 Results Achieved:
+The JavaScript calculator was a success, providing a practical solution for users who need to perform calculations quickly and reliably. The project reinforced the importance of efficiency in delivering simple and functional solutions.
 
-🌱 Aprendizados e Aprimoramentos:
-Durante o desenvolvimento, adquiri conhecimentos valiosos em JavaScript, aprimorando minhas habilidades de programação e resolução de problemas. Estou comprometido com a constante evolução, buscando oportunidades para expandir e aprimorar a funcionalidade da calculadora.
+🌱 Learnings and Improvements:
+During development, I gained valuable knowledge in JavaScript, improving my programming and problem-solving skills. I am committed to constant evolution, seeking opportunities to expand and improve the calculator's functionality.
 
-🤝 Próximos Passos:
-Estou animado com as possibilidades de expansão e melhoria contínua da calculadora. Planejo explorar integrações adicionais, como histórico de cálculos, temas personalizáveis e suporte a mais funções matemáticas.
+🤝 Next Steps:
+I'm excited about the possibilities for expansion and continued improvement of the calculator. I plan to explore additional integrations like calculation history, customizable themes, and support for more math functions.
 
-Se você estiver interessado em conhecer mais sobre este projeto ou discutir colaborações em desenvolvimento web, ficarei feliz em conectar e compartilhar insights!
+If you are interested in learning more about this project or discussing web development collaborations, be happy to connect and share insights!
